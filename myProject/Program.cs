@@ -10,7 +10,7 @@ namespace myProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, GitHub!");
+            Console.WriteLine("Hello2, GitHub!");
             Console.ReadKey();
         }
     }
